@@ -18,7 +18,7 @@ public class Solution {
         char[] array1 = a.toCharArray();
         char[] array2 = b.toCharArray();
         
-        // sort the two arrays and compare
+        // sort the two arrays, compare, and show the result
         Arrays.sort(array1);
         Arrays.sort(array2);
         
