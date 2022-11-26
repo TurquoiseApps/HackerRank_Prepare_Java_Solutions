@@ -1,3 +1,6 @@
+/*
+problem: https://www.hackerrank.com/challenges/java-string-compare/problem
+*/
 import java.io.*;
 import java.util.*;
 
