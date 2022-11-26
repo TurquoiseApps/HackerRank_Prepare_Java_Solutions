@@ -1,3 +1,7 @@
+/*
+problem: https://www.hackerrank.com/challenges/java-substring/problem
+*/
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
